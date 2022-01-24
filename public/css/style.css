@@ -1,0 +1,49 @@
+/* BANNER */
+.banner {
+    background: #212529;
+    color: white;
+    padding: 50px;
+    border-radius: 10px;
+}
+
+.banner>h1 {
+    font-size: 50px;
+}
+
+.banner>p {
+    font-size: 25px;
+}
+
+
+/* GAME CONTENT */
+.game-content {
+    padding: 20px;
+    box-sizing: border-box;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+.game-content>.judul {
+    font-size: 19px;
+    font-weight: bold;
+}
+
+.game-content>.publisher {
+    font-size: 13px;
+}
+
+.game-content>.deskripsi {
+    font-size: 19px;
+    margin-top: 10px;
+}
+
+.game-content>.tahun-rilis {
+    font-size: 15px;
+}
+
+
+/* MANAGE WRAPPER */
+.manage-wrapper {
+    padding: 30px;
+    border-radius: 10px;
+}
